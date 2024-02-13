@@ -1,6 +1,6 @@
 # Product-landing-page
 
-##Coffee House Website
+## Coffee House Website
 This repository contains the source code for a Coffee House website. The website is designed to showcase the offerings of a coffee shop, including information about the business, menu options, and contact details. It features a modern and responsive design, making it accessible across various devices.
 
 **Table of Contents**
